@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:row;
+	text-align:center;
+	margin:20px
+}
+.hero img{
+	height:200px;
+	width:600px;
+}
+.hero-two{
+	width:250px;
+	margin:20px;
+}
+.hero-two h1{
+	font-size:1.4rem;
+}
+.hero-two p{
+	font-size:0.8rem;
+}
+.hero-two a{
+	text-decoration:none;
+	background-color:red;
+	padding:10px;
+	border-radius: 5px;
+	color:white;
+}
+
+
+
+
+
